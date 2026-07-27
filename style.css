@@ -36,13 +36,13 @@ body{
   gap: 20dvh;
 }
 .sign {
-  border-radius: 40px;
+  border-radius: 30px;
   background-color: #c4e9fd;
   color: #0c0400;
-  padding: 7.11111px 10.6667px;
+  padding: 7.11111px 10.6667px; 
   border: none;
-  margin-left: 10dvh;
-  width: 10dvw;
+  /* margin-left: 9dvh; */
+  width: 14dvw;
 }
 .navbar{
     /* z-index: 10; */
@@ -75,6 +75,7 @@ body{
 }
 .hero-img{
     margin-top: 20dvh;
+    margin-left: 20dvh;
 
 }
 
@@ -83,7 +84,7 @@ body{
     
 }
 .hero-text-section{
-    margin-left: 20px;
+    margin-left: 100px;
     /* margin-right: 20dvw; */
 }
 
